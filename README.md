@@ -1,6 +1,6 @@
 # Blinkit Dashboard - Detailed Overview
 
-![Blinkit Dashboard](image_url_here)
+![Blinkit Dashboard](https://github.com/dinesh-1272/Blinkit-Sales-Analytic-Dashboard/blob/main/Dashboard%20Image.png)
 
 ## Introduction
 
